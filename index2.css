@@ -1,0 +1,70 @@
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+.col-md-4 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.greenbox1 {
+    background-color: green;
+    padding-top: 0px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.greenbox1 p {
+	font-family: 'Bellefair', serif;
+	padding-top: 8px;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.glyphicon-ok-sign {
+	font-size: 70px;
+	color: black;
+	padding-top: 30px;
+
+}
+
+.box1 {
+	font-family: 'Bellefair', serif;
+	text-align: left;
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+.box2 {
+	font-family: 'Bellefair', serif;
+	color: black;
+	text-align: left;
+	font-size: 18px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.box3 {
+	background-color: #32CD32;
+	padding: 30px;
+}
+
+.box4 p {
+	font-size: 15px;
+	color: black;
+	margin-top: 5px;
+}
+
+.img-circle {
+	background-color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
